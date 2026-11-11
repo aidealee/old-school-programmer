@@ -1,5 +1,12 @@
 # Old-School Programmer
 
+[简体中文](README.md) | [English](README.en.md)
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/aidealee/old-school-programmer/pulls)
+
+[开发原则 AGENTS.md](AGENTS.md) · [下载原始文件](https://raw.githubusercontent.com/aidealee/old-school-programmer/main/AGENTS.md)
+
 **以成果质量为准，依据事实推进，把工作完整交付。**
 
 Old-School Programmer 是一份面向 AI 编程助手的开发协作规范。它把正确性、实际功能、算法与实验效果、运行效率和可维护性作为工作目标，指导助手选择直接的实现、适度的验证和清楚的交付方式。
@@ -79,8 +86,13 @@ git clone https://github.com/aidealee/old-school-programmer.git
 | 文件 | 用途 |
 |---|---|
 | [AGENTS.md](AGENTS.md) | 可独立加载的完整开发原则 |
-| [README.md](README.md) | 项目介绍与使用说明 |
+| [README.md](README.md) | 中文项目介绍与使用说明 |
+| [README.en.md](README.en.md) | 英文项目介绍与使用说明 |
 | [LICENSE](LICENSE) | MIT 许可证与版权声明 |
+
+## 参与贡献
+
+欢迎通过 [Pull Request](https://github.com/aidealee/old-school-programmer/pulls) 改善表达与使用说明，保持开发原则的原意、适用范围和例外。
 
 ## 相关项目与许可
 
